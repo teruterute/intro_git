@@ -1,2 +1,6 @@
 Gitの練習をしてきます。
 基本的な技術を学びます
+.git add
+.git commit
+.restart
+.git rm
